@@ -27,13 +27,11 @@ source venv/bin/activate
 
 Clone the repository:
 
-
 git clone [https://github.com/Roohi2204/YOLOv8-RealTime-Webcam-Detector.git](https://github.com/Roohi2204/YOLOv8-RealTime-Webcam-Detector.git)
 
 cd YOLOv8-RealTime-Webcam-Detector
 
 **Install the dependencies:**
-
 
 pip install -r requirements.txt
 
